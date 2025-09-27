@@ -16,9 +16,6 @@ Daha sonra CNN modeli eğitildi, sonuçlar metrikler ve görsellerle değerlendi
 - Pandas  
 - Matplotlib  
 - Seaborn  
-- PIL  
-- os/glob/shutil (dosya işlemleri)  
-- Grad-CAM (tf.GradientTape)  
 
 ---
 
